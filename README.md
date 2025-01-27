@@ -1,6 +1,6 @@
 # Hi, I'm Sabrina Colignon! 👋
 
-I'm a passionate **Data Engineer** with experience in designing and implementing data architecture solutions. I love working with data and continuously expanding my knowledge in the field.
+I'm a passionate **Data Engineer, Data Analyst and Data Science** with experience in designing and implementing data architecture solutions. I love working with data and continuously expanding my knowledge in the field.
 
 ## 🛠️ Technical Skills
 - **Programming Languages:** Python, SQL, PowerShell, NoSQL
